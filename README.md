@@ -36,7 +36,7 @@ https://github.com/gdav24/employee-tracker.git
 
 The following video shows an example of the application being used from the command line:
 
-!(./assets/images/screenshot.png)
+![./assets/images/screenshot.png]
 
 
 ## Walkthrough Video Link
